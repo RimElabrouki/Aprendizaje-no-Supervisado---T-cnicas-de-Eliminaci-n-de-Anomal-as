@@ -1,1 +1,1 @@
-# Aprendizaje-no-Supervisado---T-cnicas-de-Eliminaci-n-de-Anomal-as
+Aprendizaje-no-Supervisado---Tecnicas de Eliminacion de Anomalias
